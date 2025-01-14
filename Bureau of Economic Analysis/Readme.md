@@ -64,9 +64,6 @@ Analyzes **GDP** data broken down by specific metropolitan and state areas. Show
 - **[Jupyter Notebooks](https://jupyter.org/)**
 - **[Pandas](https://pandas.pydata.org/)**
 - **[Git](https://git-scm.com/)**
-- **[NumPy](https://numpy.org/)**
-- **[Matplotlib](https://matplotlib.org/)**
-- **[Seaborn](https://seaborn.pydata.org/)**
 
 
 
